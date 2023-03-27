@@ -14,7 +14,7 @@ what I learned:
 - use basic concepts of canvas
 - about regular expressions and the test function
 - using transform to center elements
-- how to react when the user types a letter
+- how to react when the user types on the keyboard
 - manipulate the DOM using JavaScript
 
 Suggestions for improvement:
