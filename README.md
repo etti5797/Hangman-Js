@@ -6,7 +6,7 @@ features:
 - shows instructions
 - visualization of the hangman
 - shows the mistaken letters used by the user
-- popup error when clicking on a letter used before
+- popup error message when clicking on a letter that was used before
 - option to start a new game after losing or winning
 - receiving guess letters from the keyboard
 
