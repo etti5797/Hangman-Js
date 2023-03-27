@@ -1,0 +1,69 @@
+*{
+    text-align: center;
+    background-color: #233d4d;
+}
+
+h1{
+    color: #31cf1d;
+    padding: 7px;
+}
+h2, #gameOverMsg{
+    color: white;
+}
+
+canvas{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#wrongLettersCanvs
+{
+    margin-top: 161px;
+}
+#wordCanvs
+{
+    margin-left: -356px;
+}
+
+.gameOverWrapper{
+    display: none;
+    width: 300px;
+    height: 120px;
+    position: fixed; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* border: 1px solid white;
+    border-radius: 4px;
+    background-color:#233c4d; */
+    padding: 15px;
+    background-color: #233d4d;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.75);
+    border-radius: 8px;
+    margin: auto;
+}
+
+#clickingErrorMsg
+{
+    font-size: 40px;
+    margin-top: 3%;
+    color: red;
+}
+
+#restartBtn{
+    padding: 10px;
+    color:white;
+    background-color:#904cb0;
+    cursor: pointer;
+    border: 1px solid #904cb0;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.75);
+    border-radius: 5%;
+}
+
+#gameOverMsg{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
